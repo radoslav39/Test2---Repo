@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 making a conflict! Hello GtHub Conflict!!!!
 =======
+<<<<<<< HEAD
 
 >>>>>>> a68e64943635c1bff9277279e880ec5ac38df15f
+=======
+making a conflict!
+
+>>>>>>> develop
